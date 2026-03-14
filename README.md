@@ -4,3 +4,7 @@ initial password generator
 added user input
 added multiple password generation
 improved output format
+
+
+## Version
+v1.0
